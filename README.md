@@ -7,3 +7,4 @@ It shows how to develop chatbot using Amazon Lex and Antropic Claude
 
 [Getting started with the API](https://console.anthropic.com/docs/api)
 
+[API Reference](https://console.anthropic.com/docs/api/reference)
